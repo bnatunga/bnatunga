@@ -1,7 +1,7 @@
 👋 Hi, It's Brenda here.
 
 👩‍💻 I’m interested in data science, google cloud engineeering, web & android development. 
-Therefore, looking to collaborate on/ assist with any project regarding any of the above.
+Therefore, looking to collaborate on/ assist with any project regarding any of the above aspects.
 
 
 
