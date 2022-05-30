@@ -2,7 +2,8 @@
 
 👩‍💻 I’m interested in Data Science, Google Cloud Engineeering, Web & Android Development. 
 Therefore, looking to collaborate on/ assist with any project regarding any of the above aspects.
-https://raw.githubusercontent.com/bnatunga/bnatunga/main/img.jpeg
+
+<img src = "https://raw.githubusercontent.com/bnatunga/bnatunga/main/img.jpeg">
 
 
 
